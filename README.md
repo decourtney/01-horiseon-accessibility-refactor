@@ -6,6 +6,7 @@ This project is intended to make a client's site accessible to those using assis
 
 Code refactor can occur at various times during the development life cycle but generally before introducing major updates or product extensions to include post-launch. In the process of hitting milestones and deadlines, developers may leave dirty code because it works - don't fix whats not broken. However, the dirty code will need to be cleaned up to make extensibliity easier.
 
+
 ## Installation
 
 N/A
