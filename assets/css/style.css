@@ -31,7 +31,7 @@ header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -54,6 +54,11 @@ p {
 }
 
 /*Background Image*/
+.bg-image-alt {
+    position: absolute;
+    z-index: -1;
+}
+
 .hero {
     height: 800px;
     width: 100%;
