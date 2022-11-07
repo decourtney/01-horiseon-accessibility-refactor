@@ -86,7 +86,7 @@ main {
 }
 
 /*Services-provided Styles*/
-.services-provided {
+.service {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -95,11 +95,11 @@ main {
     color: #ffffff;
 }
 
-.services-provided img {
+.service img {
     max-height: 200px;
 }
 
-.services-provided h2 {
+.service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
