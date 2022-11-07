@@ -1,11 +1,16 @@
 # Hoeriseon Accessibility Refactor
 
 ## Description
-
-This project is intended to make a client's site accessible to those using assistive browsing technologies. The purpose of this project is to get initial exposure to refactoring existing code. The main goal of this refactor was to introduce alternative descriptions for any referenced images to make the site more accessible. The second goal was to dry up the code by consolidating and removing redundancy.
-
 Code refactor can occur at various times during the development life cycle but generally before introducing major updates or product extensions to include post-launch. In the process of hitting milestones and deadlines, developers may leave dirty code because it works - don't fix whats not broken. However, the dirty code will need to be cleaned up to make extensibliity easier.
 
+This project is intended to make a client's site accessible to those using assistive browsing technologies. The purpose of this project is to get initial exposure to refactoring existing code. The main goal of this refactor was to introduce alternative descriptions for any referenced images to make the site more accessible and to fix, if any, broken links. The second goal was to dry up the code by consolidating and removing redundancy while also maintaining the sites current visual appearance and integrity.
+
+<br>
+<div style="display: flex; width:700px; flex-wrap:wrap" />
+    <img src="./assets/images/horiseon-tophalf.png" alt="Top half of Horiseon site" width="700px" />
+    <img src="./assets/images/horiseon-bottomhalf.png" alt="Bottom half of Horiseon site" width="700px" />
+</div>
+<br>
 
 ## Installation
 
