@@ -86,20 +86,23 @@ main {
 }
 
 /*Services-provided Styles*/
-.services-provided {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
+.services {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
     color: #ffffff;
 }
 
-.services-provided img {
+.service {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+}
+
+.service img {
     max-height: 200px;
 }
 
-.services-provided h2 {
+.service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
