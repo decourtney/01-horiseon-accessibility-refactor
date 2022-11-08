@@ -8,10 +8,14 @@ This project is intended to make a client's site accessible to those using assis
 Deployed Project: https://decourtney.github.io/01-horiseon-accessibility-refactor/
 
 <br>
-<div style="display: flex; width:700px; flex-wrap:wrap" />
-    <img src="assets/images/horiseon-tophalf.png" alt="Top half of Horiseon site" width="700px" />
-    <img src="assets/images/horiseon-bottomhalf.png" alt="Bottom half of Horiseon site" width="700px" />
-</div>
+<a href="./assets/images/horiseon-tophalf.png">
+<a href="./assets/images/horiseon-bottomhalf.png">
+    <div style="display: flex; width:700px; flex-wrap:wrap" />  
+        <img src="./assets/images/horiseon-tophalf.png" alt="Top half of Horiseon site" style="max-width=700px;" />   
+        <img src="./assets/images/horiseon-bottomhalf.png" alt="Bottom half of Horiseon site" style="max-width=700px;" />  
+    </div>
+</a>
+</a>
 <br>
 
 ## Installation
