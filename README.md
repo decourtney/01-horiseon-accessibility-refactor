@@ -3,7 +3,9 @@
 ## Description
 Code refactor can occur at various times during the development life cycle but generally before introducing major updates or product extensions to include post-launch. In the process of hitting milestones and deadlines, developers may leave dirty code because it works - don't fix whats not broken. However, the dirty code will need to be cleaned up to make extensibliity easier.
 
-This project is intended to make a client's site accessible to those using assistive browsing technologies. The purpose of this project is to get initial exposure to refactoring existing code. The main goal of this refactor was to introduce alternative descriptions for any referenced images to make the site more accessible and to fix, if any, broken links. The second goal was to dry up the code by consolidating and removing redundancy while also maintaining the sites current visual appearance and integrity.
+This project is intended to make a client's site accessible to those using assistive browsing technologies. The purpose of this project is to get initial exposure to refactoring existing code. The main goal was to introduce alternative descriptions for any referenced images to make the site more accessible and to fix, if any, broken links. The second goal was to dry up the code by consolidating and removing redundancy while also maintaining the sites current visual appearance and integrity.
+
+Deployed Project: https://decourtney.github.io/01-horiseon-accessibility-refactor/
 
 <br>
 <div style="display: flex; width:700px; flex-wrap:wrap" />
