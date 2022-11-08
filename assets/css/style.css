@@ -52,12 +52,6 @@ p {
     font-size: 16px;
 }
 
-/*Background Image*/
-.bg-image-alt {
-    position: absolute;
-    z-index: -1;
-}
-
 .hero {
     height: 800px;
     width: 100%;
