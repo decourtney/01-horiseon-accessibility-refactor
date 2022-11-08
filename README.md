@@ -9,8 +9,7 @@ Deployed Project: https://decourtney.github.io/01-horiseon-accessibility-refacto
 
 <br>
     <div>  
-        <img src="./assets/images/horiseon-tophalf.PNG" alt="Top half of Horiseon site" style="max-width: 500px; display: block;" />   
-        <img src="./assets/images/horiseon-bottomhalf.PNG" alt="Bottom half of Horiseon site" style="max-width: 500px; display: block;" />  
+        <img src="./assets/images/horiseon-example.PNG" alt="Top half of Horiseon site" style="max-width: 500px; display: block;" />  
     </div>
 <br>
 
